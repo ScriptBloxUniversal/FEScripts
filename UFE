@@ -3889,3 +3889,4 @@ if not upval_0 then
       end
       game.Players.PlayerRemoving:Connect(r198_1)
       return
+
